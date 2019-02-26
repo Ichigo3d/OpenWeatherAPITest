@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<baseClass>
+    <urlFull>
+        <baseUrl>http://api.openweathermap.org/data/2.5/weather?</baseUrl>
+        <paramToken>appid=</paramToken>
+        <token>a0315af5aec76426f3d990306e31b817</token>
+        <paramAnd>&amp;</paramAnd>
+        <q>q=</q>
+        <comma>,</comma>
+        <paramCity>London</paramCity>
+        <paramCountryCode>uk</paramCountryCode>
+    </urlFull>
+</baseClass>
